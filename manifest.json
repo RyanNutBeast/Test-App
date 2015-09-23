@@ -1,7 +1,7 @@
 {
   "name": "Hello World!",
   "description": "Ryan's first Chrome App.",
-  "version": "0.1",
+  "version": "0.35",
   "manifest_version": 2,
   "app": {
     "background": {
